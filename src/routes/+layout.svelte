@@ -3,10 +3,24 @@
 	import Footer from '$lib/footer.svelte'
 </script>
 
-<Header />
+<div>
+	<Header />
 
-<main>
-	<slot />
-</main>
+	<main>
+		<slot />
+	</main>
 
-<Footer />
+	<Footer />
+</div>
+
+<style>
+	div {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		min-height: 100vh;
+	}
+	main {
+		padding: 10px;
+	}
+</style>

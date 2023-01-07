@@ -1,13 +1,7 @@
 <header>
-	<a href="/">[Logo] QuizApp</a>
+	<a href="/">QuizApp</a>
 	<nav>
 		<ul>
-			<li>
-				<a href="/">Home</a>
-			</li>
-			<li>
-				<a href="/">Home</a>
-			</li>
 			<li>
 				<a href="/">Home</a>
 			</li>
@@ -20,7 +14,7 @@
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		padding: 20px 50px;
+		padding: 20px;
 		background: #000;
 		color: #fff;
 	}

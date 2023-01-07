@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of Australia?",
+    "choices": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following countries is not a member of the European Union?",
+    "choices": [
+      "Austria",
+      "Switzerland",
+      "Denmark",
+      "Poland"
+    ],
+    "answer": "Switzerland"
+  },
+  {
+    "id": 3,
+    "question": "What is the largest planet in the Solar System?",
+    "choices": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 4,
+    "question": "What is the chemical symbol for gold?",
+    "choices": [
+      "Ag",
+      "Au",
+      "Pt",
+      "Hg"
+    ],
+    "answer": "Au"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is not a type of pasta?",
+    "choices": [
+      "Spaghetti",
+      "Linguine",
+      "Fettuccine",
+      "Ravioli"
+    ],
+    "answer": "Ravioli"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is not a Shakespeare play?",
+    "choices": [
+      "Hamlet",
+      "Othello",
+      "Macbeth",
+      "Romeo and Juliet"
+    ],
+    "answer": "Romeo and Juliet"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is not one of the Great Lakes?",
+    "choices": [
+      "Lake Superior",
+      "Lake Michigan",
+      "Lake Huron",
+      "Lake Erie"
+    ],
+    "answer": "Lake Huron"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is not a type of wine?",
+    "choices": [
+      "Chardonnay",
+      "Sauvignon Blanc",
+      "Merlot",
+      "Pinot Grigio"
+    ],
+    "answer": "Pinot Grigio"
+  },
+  {
+    "id": 9,
+    "question": "Who invented the telephone?",
+    "choices": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is not a type of pie?",
+    "choices": [
+      "Apple pie",
+      "Pumpkin pie",
+      "Key lime pie",
+      "Cherry pie"
+    ],
+    "answer": "Key lime pie"
+  }
+]

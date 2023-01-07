@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "Which country won the first FIFA World Cup?",
+    "choices": [
+      "Brazil",
+      "Argentina",
+      "Uruguay",
+      "Spain"
+    ],
+    "answer": "Uruguay"
+  },
+  {
+    "id": 2,
+    "question": "Who holds the record for the most home runs in a single MLB season?",
+    "choices": [
+      "Babe Ruth",
+      "Mark McGwire",
+      "Barry Bonds",
+      "Sammy Sosa"
+    ],
+    "answer": "Barry Bonds"
+  },
+  {
+    "id": 3,
+    "question": "Which country has won the most Olympic gold medals in football?",
+    "choices": [
+      "Brazil",
+      "Germany",
+      "Argentina",
+      "Spain"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 4,
+    "question": "Which NBA team has won the most championships?",
+    "choices": [
+      "Chicago Bulls",
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Golden State Warriors"
+    ],
+    "answer": "Boston Celtics"
+  },
+  {
+    "id": 5,
+    "question": "What is the highest score that can be achieved in a single frame of ten-pin bowling?",
+    "choices": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "answer": "30"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following sports is not an Olympic event?",
+    "choices": [
+      "Basketball",
+      "Baseball",
+      "Boxing",
+      "Bobsled"
+    ],
+    "answer": "Baseball"
+  },
+  {
+    "id": 7,
+    "question": "Which country has hosted the most FIFA World Cups?",
+    "choices": [
+      "Brazil",
+      "Germany",
+      "Italy",
+      "Mexico"
+    ],
+    "answer": "Mexico"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following players has not won the FIFA Ballon d'Or?",
+    "choices": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Neymar",
+      "Kylian Mbappé"
+    ],
+    "answer": "Neymar"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following sports is not played with a ball?",
+    "choices": [
+      "Football",
+      "Tennis",
+      "Golf",
+      "Cricket"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is not a discipline in the modern pentathlon?",
+    "choices": [
+      "Swimming",
+      "Running",
+      "Horse riding",
+      "Shooting"
+    ],
+    "answer": "Horse riding"
+  }
+]

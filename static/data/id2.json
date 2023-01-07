@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "What is the largest animal on Earth?",
+    "choices": [
+      "Blue whale",
+      "Giraffe",
+      "African elephant",
+      "Gorilla"
+    ],
+    "answer": "Blue whale"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is not a marsupial?",
+    "choices": [
+      "Kangaroo",
+      "Opossum",
+      "Platypus",
+      "Raccoon"
+    ],
+    "answer": "Raccoon"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is not a type of bear?",
+    "choices": [
+      "Grizzly bear",
+      "Polar bear",
+      "Kodiak bear",
+      "Panda bear"
+    ],
+    "answer": "Kodiak bear"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a venomous snake?",
+    "choices": [
+      "Cobra",
+      "Anaconda",
+      "Boa constrictor",
+      "Pythons"
+    ],
+    "answer": "Cobra"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is not a type of cat?",
+    "choices": [
+      "Lion",
+      "Tiger",
+      "Cheetah",
+      "Leopard"
+    ],
+    "answer": "Cheetah"
+  }
+]

@@ -1,10 +1,18 @@
 [
   {
     "id": 1,
-    "name": "Svelte test"
+    "name": "Svelte quiz"
   },
   {
     "id": 2,
-    "name": "4IZ278 Testy"
+    "name": "Animal quiz"
+  },
+  {
+    "id": 3,
+    "name": "Sport quiz"
+  },
+  {
+    "id": 4,
+    "name": "General knowledge quiz"
   }
 ]

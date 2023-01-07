@@ -20,5 +20,115 @@
       "It makes your web apps more accessible"
     ],
     "answer": "It helps you build web apps faster"
+  },
+  {
+    "id": 3,
+    "question": "What is Svelte and what is it used for?",
+    "choices": [
+      "A tool for creating server-side applications",
+      "A library for animating elements on a web page",
+      "A framework for building web applications",
+      "A tool for optimizing images for the web"
+    ],
+    "answer": "A framework for building web applications"
+  },
+  {
+    "id": 4,
+    "question": "How does Svelte differ from other JavaScript libraries and frameworks?",
+    "choices": [
+      "It is more lightweight and faster",
+      "It uses a different programming language",
+      "It is only compatible with certain browsers",
+      "It has a steeper learning curve"
+    ],
+    "answer": "It is more lightweight and faster"
+  },
+  {
+    "id": 5,
+    "question": "What is the syntax for creating a Svelte component?",
+    "choices": [
+      "class MyComponent extends Svelte {}",
+      "function MyComponent() {}",
+      "const MyComponent = new Svelte()",
+      "<MyComponent> </MyComponent>"
+    ],
+    "answer": "<MyComponent> </MyComponent>"
+  },
+  {
+    "id": 6,
+    "question": "How does Svelte's reactive system work?",
+    "choices": [
+      "It uses a virtual DOM to minimize DOM manipulation",
+      "It allows developers to manually specify when the component should update",
+      "It uses a polling system to check for data changes",
+      "It automatically detects and updates based on data changes"
+    ],
+    "answer": "It automatically detects and updates based on data changes"
+  },
+  {
+    "id": 7,
+    "question": "What are some advantages of using Svelte for building web applications?",
+    "choices": [
+      "It is easy to learn and use",
+      "It produces small, optimized bundle sizes",
+      "It has a large and active community",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 8,
+    "question": "What is the file extension for Svelte components?",
+    "choices": [
+      ".svelte",
+      ".html",
+      ".js",
+      ".css"
+    ],
+    "answer": ".svelte"
+  },
+  {
+    "id": 9,
+    "question": "How do you bind a value to an element in a Svelte template?",
+    "choices": [
+      "{{ value }}",
+      "{ value }",
+      "${ value }",
+      "@value"
+    ],
+    "answer": "{ value }"
+  },
+  {
+    "id": 10,
+    "question": "How do you pass data from a parent component to a child component in Svelte?",
+    "choices": [
+      "By using the @symbol",
+      "By using props",
+      "By using state",
+      "By using the $ symbol"
+    ],
+    "answer": "By using props"
+  },
+  {
+    "id": 11,
+    "question": "How do you specify a computed value in a Svelte component?",
+    "choices": [
+      "By using the $ symbol",
+      "By using a computed function",
+      "By using the @ symbol",
+      "By using a getter function"
+    ],
+    "answer": "By using a computed function"
+  },
+  {
+    "id": 12,
+    "question": "How do you add an event listener to a Svelte component?",
+    "choices": [
+      "By using the on: symbol",
+      "By using the addEventListener function",
+      "By using the bind: symbol",
+      "By using the @ symbol"
+    ],
+    "answer": "By using the on: symbol"
   }
 ]
