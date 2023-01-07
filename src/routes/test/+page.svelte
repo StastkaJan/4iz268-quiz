@@ -41,6 +41,10 @@
 	}
 </script>
 
+<svelte:head>
+	<title>{data.tests[Number(id) - 1].name} | QuizApp</title>
+</svelte:head>
+
 <div class="container">
 	{#if startQuiz}
 		<Quiz {questions} {id} {training} on:reset={reset} />

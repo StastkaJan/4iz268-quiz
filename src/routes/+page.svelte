@@ -4,6 +4,10 @@
 	export let data: PageData
 </script>
 
+<svelte:head>
+	<title>Quiz topics | QuizApp</title>
+</svelte:head>
+
 <section>
 	<h1>Quiz topics</h1>
 	{#each data.tests as test}
