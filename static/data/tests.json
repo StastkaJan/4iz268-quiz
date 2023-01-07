@@ -1,18 +1,22 @@
 [
   {
     "id": 1,
-    "name": "Svelte quiz"
+    "name": "Svelte quiz",
+    "desc": "A quiz that tests your knowledge of the Svelte JavaScript framework"
   },
   {
     "id": 2,
-    "name": "Animal quiz"
+    "name": "Animal quiz",
+    "desc": "A quiz that tests your knowledge of animals and their characteristics"
   },
   {
     "id": 3,
-    "name": "Sport quiz"
+    "name": "Sport quiz",
+    "desc": "A quiz that tests your knowledge of various sports and athletics"
   },
   {
     "id": 4,
-    "name": "General knowledge quiz"
+    "name": "General knowledge quiz",
+    "desc": "A quiz that tests your knowledge of a wide range of topics, including history, science, and current events"
   }
 ]

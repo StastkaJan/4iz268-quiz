@@ -59,6 +59,7 @@
 		<h1>Results</h1>
 		<p>You scored {handleAnswers()} out of {questions.length}</p>
 		<button on:click={() => dispatch('reset')}>Back</button>
+		<a href="/" class="button">Home</a>
 	{:else}
 		<button on:click={() => dispatch('reset', {})}>Back</button>
 		<h1>{questions[currentQuestion].question}</h1>

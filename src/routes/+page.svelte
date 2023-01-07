@@ -11,6 +11,8 @@
 			<h2>
 				<a href="/test?id={String(test.id)}">{test.name}</a>
 			</h2>
+			<p>{test.desc}</p>
+			<a href="/test?id={String(test.id)}" class="button">Challange me!</a>
 		</div>
 	{/each}
 </section>
@@ -22,8 +24,5 @@
 	}
 	section div {
 		margin-left: 20px;
-	}
-	a:hover {
-		text-decoration: underline;
 	}
 </style>

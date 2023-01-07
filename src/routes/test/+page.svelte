@@ -45,6 +45,7 @@
 	{#if startQuiz}
 		<Quiz {questions} {id} {training} on:reset={reset} />
 	{:else}
+		<a href="/" class="button">Home</a>
 		<h1>{data.tests[Number(id) - 1].name}</h1>
 		<p>{questions.length} questions</p>
 		<label
